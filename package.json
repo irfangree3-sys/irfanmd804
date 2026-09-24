@@ -1,0 +1,11 @@
+{
+  "name": "irfan-md-bot",
+  "version": "1.0.0",
+  "description": "IRFAN MD WhatsApp Multi-Device Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "IRFAN",
+  "license": "MIT"
+}
